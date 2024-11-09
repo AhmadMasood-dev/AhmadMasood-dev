@@ -37,10 +37,14 @@
 # 📊 GitHub Stats:
 
 <p>&nbsp;</p>
-<p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadMasood-dev&hide_border=true&theme=slateorange" alt="rishavchanda" /></p>
+<p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadMasood-dev&hide_border=true&theme=slateorange" alt="ahmadmasood" />
+ 
+</p>
 <p>&nbsp;</p>
-<p>  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadMasood-dev&show_icons=true&hide_border=true&rank_icon=github&locale=en&theme=slateorange" alt="rishavchanda" /></p>
-<p> &emsp; &emsp; &emsp; <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadMasood-dev&hide_border=true&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="rishavchanda" /></p>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadMasood-dev&show_icons=true&hide_border=true&rank_icon=github&locale=en&theme=slateorange" alt="ahmadmasood" />
+<p> &emsp; &emsp; &emsp; <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadMasood-dev&hide_border=true&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="ahmadmasood" /></p>
 <br/>
 
 
