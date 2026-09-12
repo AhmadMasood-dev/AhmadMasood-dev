@@ -1,158 +1,87 @@
 <div align="center">
 
-<samp>AhmadMasood-dev / profile.yaml &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ SYSTEM_OVERRIDE_ENABLED ]</samp>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143d3a,100:00C9A7&height=200&section=header&text=Ahmad%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Software%20Engineer&descSize=17&descColor=C9D1D9&descAlignY=52" width="100%" />
+
+<br>
+
+<img src="assets/profile.png" width="170" alt="Ahmad Masood" />
 
 <br><br>
 
-# Ahmad Masood
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=AI+Engineer+%7C+Automation+Architect;Full-Stack+Software+Engineer;Upwork+Top+Rated+Plus+Freelancer" alt="Typing SVG" /></a>
-
-<br>
-
-Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
-
-<br>
-
 <a href="https://www.upwork.com/freelancers/~01d8a14171018f3346">
-<img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus" />
+<img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 
 <br><br>
 
-</div>
-
----
-
-### `> system::core::about / initialize`
-
-```
-[BOOT] Loading core identity modules...
-
-[OK]  Designation     → AI Engineer · Automation Architect · Software Engineer
-[OK]  Status          → ACTIVE | Arch Linux / Zsh
-[OK]  Location        → Islamabad, Pakistan
-[OK]  Affiliation     → Kodetics · FlyRank AI · BSCS @ Quaid-e-Azam University
-[OK]  Freelance       → Upwork Top Rated Plus
-
-[LOAD] Primary subsystems...
-[OK]  Full-stack engineering    → Next.js, NestJS, PostgreSQL, MongoDB
-[OK]  AI & LLM integration     → Ollama, Gemini, local LLMs, prompt engineering
-[OK]  Automation pipelines      → Puppeteer, Playwright, Python scripting
-[OK]  Web scraping & bots       → Headless browsers, data extraction, scheduling
-
-[INIT] Focus vectors...
- ├── AI-powered product development
- ├── End-to-end workflow automation
- └── Scalable full-stack architecture
-
-[DONE] All subsystems nominal. Ready for deployment.
-```
-
----
-
-### `> system::visual::render`
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<br>
-
-<img src="assets/profile.png" width="380" alt="Ahmad Masood — AI Engineer" style="border-radius: 12px;" />
+<a href="https://linkedin.com/in/ahmadmasood-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:ahmadmasood.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/AhmadMasood-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~01d8a14171018f3346"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
 
 <br><br>
-</td>
-<td width="50%">
-<pre>
-> AI_PIPELINE_INIT --mode=production
 
-[INFO] Loading LLM inference engine...   ██ OK
-[INFO] Connecting vector store...        ██ OK
-[INFO] Agent orchestrator online...      ██ OK
-[INFO] Browser automation ready...       ██ OK
-[INFO] Webhook listeners active...       ██ OK
+Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI** · BSCS @ **Quaid-e-Azam University**
 
-[STREAM] Pipeline metrics:
- ├── Agents:    4 active
- ├── Models:    Ollama + Gemini
- ├── Scrapers:  3 headless sessions
- ├── Queue:     12 tasks pending
- └── Latency:   ~180ms p95
-
-[STATUS] All systems operational.
-</pre>
-</td>
-</tr>
-</table>
 </div>
 
----
+<br>
 
-### `> system::arsenal::load`
+## About
+
+I build AI-powered products, automate complex workflows, and ship full-stack web applications. My work spans LLM integration, headless browser automation, web scraping pipelines, and scalable backend systems. Currently delivering at **Kodetics** and **FlyRank AI**, and as a **Top Rated Plus** freelancer on Upwork.
+
+Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
+
+<br>
+
+## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+**Frontend & Backend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <br>
-<samp>CORE STACK</samp>
-<br><br>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 <br>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<br><br>
-</td>
-<td align="center">
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
 <br>
-<samp>AI & LLMs</samp>
-<br><br>
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
 <br>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=white" />
-<br><br>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br>
-<samp>AUTOMATION</samp>
-<br><br>
-<img src="https://img.shields.io/badge/Puppeteer-0D1117?style=for-the-badge&logo=puppeteer&logoColor=40B5A4" />
-<img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
-<br>
-<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A" />
-<img src="https://img.shields.io/badge/Cron_Jobs-0D1117?style=for-the-badge&logoColor=00C9A7" />
-<br><br>
-</td>
-<td align="center">
-<br>
-<samp>ENVIRONMENT</samp>
-<br><br>
-<img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
-<img src="https://img.shields.io/badge/Zsh-0D1117?style=for-the-badge&logo=gnubash&logoColor=F15A24" />
-<br>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<br><br>
-</td>
-</tr>
-</table>
+
+**Environment**
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
----
+<br>
 
-### `> system::telemetry::stream`
+## GitHub Analytics
 
 <div align="center">
 
@@ -166,66 +95,42 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMasood-dev&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00C9A7&point=C9D1D9&area=true&area_color=00C9A7&custom_title=Contribution%20Telemetry" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMasood-dev&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00C9A7&point=C9D1D9&area=true&area_color=00C9A7" width="95%" />
 
 </div>
 
-<!-- ▼ WAKATIME: Uncomment once WakaTime is configured ▼
+<br>
+
+## Featured Projects
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9&layout=compact" />
+
+<a href="https://github.com/AhmadMasood-dev/Portfolio-NextJS"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=Portfolio-NextJS&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
+&nbsp;
+<a href="https://github.com/AhmadMasood-dev/BidSphere-Backend"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=BidSphere-Backend&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
+
+<a href="https://github.com/AhmadMasood-dev/Real-Time-Message-App"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=Real-Time-Message-App&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
+&nbsp;
+<a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=flyrank-internship-capstone&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
+
 </div>
--->
+
+<br>
 
 ---
-
-### `> system::status::live`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                      LIVE SYSTEM STATUS                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Active AI Agents ................. 4                             ║
-║  Automation Pipelines ............. 3                             ║
-║  System Uptime .................... 99.7%                         ║
-║  Deployment Target ................ Vercel Edge                   ║
-║  Upwork Status .................... Top Rated Plus                ║
-║                                                                  ║
-║  LATEST COMMITS:                                                 ║
-║  ├── [main] ai-scraper — headless extraction pipeline            ║
-║  ├── [dev]  llm-agent — multi-model inference chain              ║
-║  └── [exp]  automation-hub — scheduled job orchestrator          ║
-║                                                                  ║
-║  PROJECT STATUS:                                                 ║
-║  ├── kodetics-platform ............ ● ACTIVE                     ║
-║  ├── flyrank-ai-engine ............ ● ACTIVE                     ║
-║  ├── upwork-contracts ............. ● DELIVERING                  ║
-║  └── automation-toolkit ........... ◐ IN PROGRESS                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-### `> system::network::secure_connect`
 
 <div align="center">
-
-<a href="https://www.upwork.com/freelancers/~01d8a14171018f3346">
-<img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ahmadmasood-dev)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmadmasood.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadMasood-dev)
-
-<br>
-
-<samp>Available for AI engineering, automation, and full-stack contracts.<br>Top Rated Plus on Upwork — proven delivery on complex technical projects.</samp>
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=AhmadMasood-dev&color=00C9A7&style=flat-square&label=PROFILE+VIEWS" />
 
 <br><br>
+
+**Open to AI engineering, automation, and full-stack contracts.**
+<br>
+Top Rated Plus on Upwork — proven delivery on complex technical projects.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143d3a,100:00C9A7&height=120&section=footer" width="100%" />
 
 </div>
