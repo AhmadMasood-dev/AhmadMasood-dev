@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143d3a,100:00C9A7&height=200&section=header&text=Ahmad%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Software%20Engineer&descSize=17&descColor=C9D1D9&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143d3a,100:00C9A7&height=200&section=header&text=Ahmad%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20LLM%20Products%2C%20Automation%20%26%20Full-Stack%20Systems&descSize=16&descColor=C9D1D9&descAlignY=52" width="100%" />
 
 <br>
 
@@ -10,17 +10,11 @@
 
 <br><br>
 
-<a href="https://linkedin.com/in/ahmadmasood-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ahmadmasood-dev"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00C9A7" /></a>
 &nbsp;
-<a href="mailto:ahmadmasood.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ahmadmasood.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00C9A7" /></a>
 &nbsp;
-<a href="https://github.com/AhmadMasood-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.upwork.com/freelancers/~01d8a14171018f3346"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
-
-<br><br>
-
-BSCS @ **Quaid-e-Azam University**
+<a href="https://www.upwork.com/freelancers/~01d8a14171018f3346"><img src="https://img.shields.io/badge/Upwork-0D1117?style=flat-square&logo=upwork&logoColor=00C9A7" /></a>
 
 </div>
 
@@ -28,17 +22,19 @@ BSCS @ **Quaid-e-Azam University**
 
 ## About
 
-<img align="right" src="assets/profile-anim.gif" width="320" alt="Ahmad Masood" />
+<img align="right" src="assets/profile-anime.png" width="270" alt="Ahmad Masood" />
 
-I build AI-powered products, automate complex workflows, and ship full-stack web applications.
+I design and ship AI-powered systems — LLM integrations, large-scale automation, and the full-stack products built around them.
 
-My work spans LLM integration, headless browser automation, web scraping pipelines, and scalable backend systems.
+**What I do**
 
-**Top Rated Plus** freelancer on Upwork.
+- **LLM engineering** — RAG, agent workflows, structured extraction, local + hosted models
+- **Automation at scale** — headless browser pipelines, resilient scrapers, scheduled jobs
+- **Backend & full-stack** — Node/NestJS APIs, PostgreSQL/MongoDB, Docker, Next.js frontends
 
-Based in Islamabad, Pakistan.
+**Top Rated Plus** on Upwork · BSCS @ Quaid-e-Azam University
 <br>
-Running Arch Linux + Zsh.
+Available for contract work
 
 <br clear="both" />
 
@@ -109,7 +105,6 @@ Running Arch Linux + Zsh.
 
 <br>
 
-<!--
 ## Featured Projects
 
 <div align="center">
@@ -123,7 +118,6 @@ Running Arch Linux + Zsh.
 <a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=flyrank-internship-capstone&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
 
 </div>
--->
 
 ---
 
