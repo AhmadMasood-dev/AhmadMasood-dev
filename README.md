@@ -137,6 +137,7 @@ Available for contract work
 
 <br>
 
+<!--
 ## Featured Projects
 
 <table width="100%">
@@ -146,6 +147,7 @@ Available for contract work
 <tr><td><b><a href="https://github.com/AhmadMasood-dev/Portfolio-NextJS">Portfolio</a></b></td><td>Personal portfolio site</td><td>TypeScript · Next.js</td></tr>
 <tr><td><b><a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone">FlyRank Capstone</a></b></td><td>Internship capstone project</td><td>—</td></tr>
 </table>
+-->
 
 ---
 
