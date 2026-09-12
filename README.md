@@ -6,13 +6,19 @@
 
 # Ahmad Masood
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Robotics+System+Architect;AI-Agent+Control+Systems;Full-Stack+Core+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=AI+Engineer+%7C+Automation+Architect;Full-Stack+Software+Engineer;Upwork+Top+Rated+Plus+Freelancer" alt="Typing SVG" /></a>
 
 <br>
 
 Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 
 <br>
+
+<a href="https://www.upwork.com/freelancers/~01d8a14171018f3346">
+<img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus" />
+</a>
+
+<br><br>
 
 </div>
 
@@ -23,20 +29,22 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 ```
 [BOOT] Loading core identity modules...
 
-[OK]  Designation     → Robotics System Architect
+[OK]  Designation     → AI Engineer · Automation Architect · Software Engineer
 [OK]  Status          → ACTIVE | Arch Linux / Zsh
 [OK]  Location        → Islamabad, Pakistan
 [OK]  Affiliation     → Kodetics · FlyRank AI · BSCS @ Quaid-e-Azam University
+[OK]  Freelance       → Upwork Top Rated Plus
 
 [LOAD] Primary subsystems...
 [OK]  Full-stack engineering    → Next.js, NestJS, PostgreSQL, MongoDB
-[OK]  AI-agent orchestration   → Ollama, Gemini, Puppeteer, Playwright
-[OK]  Cyber-physical research  → ROS2, C++, Sensor Fusion, Motor Control
+[OK]  AI & LLM integration     → Ollama, Gemini, local LLMs, prompt engineering
+[OK]  Automation pipelines      → Puppeteer, Playwright, Python scripting
+[OK]  Web scraping & bots       → Headless browsers, data extraction, scheduling
 
 [INIT] Focus vectors...
- ├── Decentralized AI architectures
- ├── Scalable full-stack systems
- └── Human-robot interaction protocols
+ ├── AI-powered product development
+ ├── End-to-end workflow automation
+ └── Scalable full-stack architecture
 
 [DONE] All subsystems nominal. Ready for deployment.
 ```
@@ -51,29 +59,28 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 <td align="center" width="50%">
 <br>
 
-<!-- ▼ DROP YOUR ROBOTIC AI IMAGE URL BELOW ▼ -->
-<img src="YOUR_IMAGE_URL_HERE" width="380" alt="Cyber-Physical AI" />
+<img src="assets/profile.png" width="380" alt="Ahmad Masood — AI Engineer" style="border-radius: 12px;" />
 
 <br><br>
 </td>
 <td width="50%">
 <pre>
-> ROS2_INITIALIZE --mode=production
+> AI_PIPELINE_INIT --mode=production
 
-[INFO] Loading sensor_fusion node...    ██ OK
-[INFO] Calibrating motor_control...     ██ OK
-[INFO] LIDAR point cloud online...      ██ OK
-[INFO] Perception pipeline active...    ██ OK
-[INFO] AI inference engine bound...     ██ OK
+[INFO] Loading LLM inference engine...   ██ OK
+[INFO] Connecting vector store...        ██ OK
+[INFO] Agent orchestrator online...      ██ OK
+[INFO] Browser automation ready...       ██ OK
+[INFO] Webhook listeners active...       ██ OK
 
-[STREAM] Telemetry feed:
- ├── IMU:    ΔΘ = 0.003 rad/s
- ├── LIDAR:  2048 pts/scan
- ├── Motor:  PWM @ 1.2 kHz
- └── Temp:   41.2°C nominal
+[STREAM] Pipeline metrics:
+ ├── Agents:    4 active
+ ├── Models:    Ollama + Gemini
+ ├── Scrapers:  3 headless sessions
+ ├── Queue:     12 tasks pending
+ └── Latency:   ~180ms p95
 
-[STATUS] All 7 nodes active.
-         System operational.
+[STATUS] All systems operational.
 </pre>
 </td>
 </tr>
@@ -105,27 +112,26 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 </td>
 <td align="center">
 <br>
-<samp>HARDWARE & CONTROL</samp>
+<samp>AI & LLMs</samp>
 <br><br>
-<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=22314E" />
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
 <br>
-<img src="https://img.shields.io/badge/Sensor_Fusion-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Motor_Control-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=white" />
 <br><br>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br>
-<samp>AI & AGENTS</samp>
+<samp>AUTOMATION</samp>
 <br><br>
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<br>
 <img src="https://img.shields.io/badge/Puppeteer-0D1117?style=for-the-badge&logo=puppeteer&logoColor=40B5A4" />
 <img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+<br>
+<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A" />
+<img src="https://img.shields.io/badge/Cron_Jobs-0D1117?style=for-the-badge&logoColor=00C9A7" />
 <br><br>
 </td>
 <td align="center">
@@ -164,7 +170,7 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 
 </div>
 
-<!-- ▼ WAKATIME: Uncomment below once WakaTime is configured ▼
+<!-- ▼ WAKATIME: Uncomment once WakaTime is configured ▼
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9&layout=compact" />
 </div>
@@ -180,20 +186,21 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  Active AI Agents ................. 4                             ║
-║  System Uptime .................... 99.8%                         ║
+║  Automation Pipelines ............. 3                             ║
+║  System Uptime .................... 99.7%                         ║
 ║  Deployment Target ................ Vercel Edge                   ║
-║  Last Heartbeat ................... < 2 min ago                   ║
+║  Upwork Status .................... Top Rated Plus                ║
 ║                                                                  ║
 ║  LATEST COMMITS:                                                 ║
-║  ├── [main] profile.yaml — system override enabled               ║
-║  ├── [dev]  ai-agent-pipeline — inference loop optimized         ║
-║  └── [exp]  ros2-bridge — sensor calibration pass                ║
+║  ├── [main] ai-scraper — headless extraction pipeline            ║
+║  ├── [dev]  llm-agent — multi-model inference chain              ║
+║  └── [exp]  automation-hub — scheduled job orchestrator          ║
 ║                                                                  ║
 ║  PROJECT STATUS:                                                 ║
 ║  ├── kodetics-platform ............ ● ACTIVE                     ║
 ║  ├── flyrank-ai-engine ............ ● ACTIVE                     ║
-║  ├── portfolio-v3 ................. ○ STAGING                    ║
-║  └── ros2-experiment .............. ◐ IN PROGRESS                ║
+║  ├── upwork-contracts ............. ● DELIVERING                  ║
+║  └── automation-toolkit ........... ◐ IN PROGRESS                ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -204,14 +211,16 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI**
 
 <div align="center">
 
+<a href="https://www.upwork.com/freelancers/~01d8a14171018f3346">
+<img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ahmadmasood-dev)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmadmasood.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadMasood-dev)
-[![Upwork](https://img.shields.io/badge/Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=14A800)](https://www.upwork.com/freelancers/~01d8a14171018f3346)
 
 <br>
 
-<samp>Seeking collaborators for hardware-AI automation platforms.<br>If you build at the intersection of code and physical systems — let's connect.</samp>
+<samp>Available for AI engineering, automation, and full-stack contracts.<br>Top Rated Plus on Upwork — proven delivery on complex technical projects.</samp>
 
 <br>
 
