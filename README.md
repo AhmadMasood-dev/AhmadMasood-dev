@@ -95,8 +95,6 @@ Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMasood-dev&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00C9A7&point=C9D1D9&area=true&area_color=00C9A7" width="95%" />
-
 </div>
 
 <br>
@@ -109,7 +107,7 @@ Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
 &nbsp;
 <a href="https://github.com/AhmadMasood-dev/BidSphere-Backend"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=BidSphere-Backend&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
 
-<a href="https://github.com/AhmadMasood-dev/Real-Time-Message-App"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=Real-Time-Message-App&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
+<a href="https://github.com/AhmadMasood-dev/Scraping-E-Commerce-Backend-v2"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=Scraping-E-Commerce-Backend-v2&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
 &nbsp;
 <a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=flyrank-internship-capstone&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
 
