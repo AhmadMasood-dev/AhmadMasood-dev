@@ -125,21 +125,13 @@ Available for contract work
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadMasood-dev&theme=github_dark" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMasood-dev&theme=github_dark" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmadMasood-dev&theme=github_dark" height="200" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadMasood-dev&theme=github_dark" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmadMasood-dev&theme=github_dark&utcOffset=5" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMasood-dev&theme=github_dark" height="220" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadMasood-dev&theme=github_dark" height="220" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=AhmadMasood-dev&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/AhmadMasood-dev/AhmadMasood-dev/output/snake.gif" alt="Contribution graph snake animation" width="100%" />
 
 </div>
 
