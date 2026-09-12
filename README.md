@@ -125,13 +125,13 @@ Available for contract work
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMasood-dev&theme=github_dark" height="220" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMasood-dev&theme=github_dark" width="49%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadMasood-dev&theme=github_dark" height="220" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadMasood-dev&theme=github_dark" width="49%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AhmadMasood-dev&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=AhmadMasood-dev&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" width="100%" />
 
 </div>
 
@@ -139,12 +139,13 @@ Available for contract work
 
 ## Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[BidSphere](https://github.com/AhmadMasood-dev/BidSphere-Backend)** | Real-time auction and bidding platform backend | TypeScript · NestJS |
-| **[E-Commerce Scraper v2](https://github.com/AhmadMasood-dev/Scraping-E-Commerce-Backend-v2)** | Resilient product-data scraping pipeline | JavaScript · Node.js |
-| **[Portfolio](https://github.com/AhmadMasood-dev/Portfolio-NextJS)** | Personal portfolio site | TypeScript · Next.js |
-| **[FlyRank Capstone](https://github.com/AhmadMasood-dev/flyrank-internship-capstone)** | Internship capstone project | — |
+<table width="100%">
+<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th></tr>
+<tr><td><b><a href="https://github.com/AhmadMasood-dev/BidSphere-Backend">BidSphere</a></b></td><td>Real-time auction and bidding platform backend</td><td>TypeScript · NestJS</td></tr>
+<tr><td><b><a href="https://github.com/AhmadMasood-dev/Scraping-E-Commerce-Backend-v2">E-Commerce Scraper v2</a></b></td><td>Resilient product-data scraping pipeline</td><td>JavaScript · Node.js</td></tr>
+<tr><td><b><a href="https://github.com/AhmadMasood-dev/Portfolio-NextJS">Portfolio</a></b></td><td>Personal portfolio site</td><td>TypeScript · Next.js</td></tr>
+<tr><td><b><a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone">FlyRank Capstone</a></b></td><td>Internship capstone project</td><td>—</td></tr>
+</table>
 
 ---
 
