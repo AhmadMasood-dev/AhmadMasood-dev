@@ -125,9 +125,13 @@ Available for contract work
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmadMasood-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9&hide_rank=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMasood-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadMasood-dev&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMasood-dev&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmadMasood-dev&theme=github_dark" height="200" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadMasood-dev&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmadMasood-dev&theme=github_dark&utcOffset=5" height="200" />
 
 <br><br>
 
@@ -135,23 +139,20 @@ Available for contract work
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/AhmadMasood-dev/AhmadMasood-dev/output/snake.gif" alt="Contribution graph snake animation" width="100%" />
+
 </div>
 
 <br>
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/AhmadMasood-dev/Portfolio-NextJS"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=Portfolio-NextJS&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
-&nbsp;
-<a href="https://github.com/AhmadMasood-dev/BidSphere-Backend"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=BidSphere-Backend&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
-
-<a href="https://github.com/AhmadMasood-dev/Scraping-E-Commerce-Backend-v2"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=Scraping-E-Commerce-Backend-v2&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
-&nbsp;
-<a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=flyrank-internship-capstone&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
-
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| **[BidSphere](https://github.com/AhmadMasood-dev/BidSphere-Backend)** | Real-time auction and bidding platform backend | TypeScript · NestJS |
+| **[E-Commerce Scraper v2](https://github.com/AhmadMasood-dev/Scraping-E-Commerce-Backend-v2)** | Resilient product-data scraping pipeline | JavaScript · Node.js |
+| **[Portfolio](https://github.com/AhmadMasood-dev/Portfolio-NextJS)** | Personal portfolio site | TypeScript · Next.js |
+| **[FlyRank Capstone](https://github.com/AhmadMasood-dev/flyrank-internship-capstone)** | Internship capstone project | — |
 
 ---
 
