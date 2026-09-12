@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143d3a,100:00C9A7&height=200&section=header&text=Ahmad%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Software%20Engineer&descSize=17&descColor=C9D1D9&descAlignY=52" width="100%" />
 
-<br><br>
-
-<!-- <img src="assets/profile.png" width="170" alt="Ahmad Masood" /> -->
+<br>
 
 <a href="https://www.upwork.com/freelancers/~01d8a14171018f3346">
 <img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
@@ -22,7 +20,7 @@
 
 <br><br>
 
-Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI** · BSCS @ **Quaid-e-Azam University**
+BSCS @ **Quaid-e-Azam University**
 
 </div>
 
@@ -30,9 +28,26 @@ Associate Software Engineer @ **Kodetics** · AI Integrations @ **FlyRank AI** �
 
 ## About
 
-I build AI-powered products, automate complex workflows, and ship full-stack web applications. My work spans LLM integration, headless browser automation, web scraping pipelines, and scalable backend systems. Currently delivering at **Kodetics** and **FlyRank AI**, and as a **Top Rated Plus** freelancer on Upwork.
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I build AI-powered products, automate complex workflows, and ship full-stack web applications.
+
+My work spans LLM integration, headless browser automation, web scraping pipelines, and scalable backend systems.
+
+**Top Rated Plus** freelancer on Upwork.
 
 Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
+
+</td>
+<td width="38%" align="center" valign="top">
+
+<img src="assets/profile-anim.gif" width="230" alt="Ahmad Masood" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
