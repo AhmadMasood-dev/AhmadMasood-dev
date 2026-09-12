@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143d3a,100:00C9A7&height=200&section=header&text=Ahmad%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Software%20Engineer&descSize=17&descColor=C9D1D9&descAlignY=52" width="100%" />
 
-<br>
-
-<img src="assets/profile.png" width="170" alt="Ahmad Masood" />
-
 <br><br>
+
+<!-- <img src="assets/profile.png" width="170" alt="Ahmad Masood" /> -->
 
 <a href="https://www.upwork.com/freelancers/~01d8a14171018f3346">
 <img src="https://img.shields.io/badge/Upwork-TOP_RATED_PLUS-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
@@ -42,13 +40,17 @@ Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
 
 <div align="center">
 
-**Frontend & Backend**
+**Frontend**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
 <br>
+
+**Backend**
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -99,6 +101,7 @@ Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
 
 <br>
 
+<!--
 ## Featured Projects
 
 <div align="center">
@@ -112,8 +115,7 @@ Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
 <a href="https://github.com/AhmadMasood-dev/flyrank-internship-capstone"><img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadMasood-dev&repo=flyrank-internship-capstone&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" /></a>
 
 </div>
-
-<br>
+-->
 
 ---
 
