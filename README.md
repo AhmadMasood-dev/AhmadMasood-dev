@@ -28,9 +28,7 @@ BSCS @ **Quaid-e-Azam University**
 
 ## About
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img align="right" src="assets/profile-anim.gif" width="320" alt="Ahmad Masood" />
 
 I build AI-powered products, automate complex workflows, and ship full-stack web applications.
 
@@ -38,16 +36,11 @@ My work spans LLM integration, headless browser automation, web scraping pipelin
 
 **Top Rated Plus** freelancer on Upwork.
 
-Based in Islamabad, Pakistan. Running Arch Linux + Zsh.
+Based in Islamabad, Pakistan.
+<br>
+Running Arch Linux + Zsh.
 
-</td>
-<td width="38%" align="center" valign="top">
-
-<img src="assets/profile-anim.gif" width="230" alt="Ahmad Masood" />
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 <br>
 
