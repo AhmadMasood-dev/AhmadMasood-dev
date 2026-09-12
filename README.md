@@ -22,7 +22,7 @@
 
 ## About
 
-<img align="right" src="assets/profile-anime.png" width="270" alt="Ahmad Masood" />
+<img align="right" src="https://raw.githubusercontent.com/AhmadMasood-dev/AhmadMasood-dev/main/assets/profile-anime.png" width="270" alt="Ahmad Masood" />
 
 I design and ship AI-powered systems — LLM integrations, large-scale automation, and the full-stack products built around them.
 
